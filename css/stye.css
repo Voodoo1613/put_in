@@ -1,0 +1,10 @@
+.hader {
+   font-size: 3em;
+   color: black;
+   text-align: center;
+   vertical-align:middle;
+   display: block; text-align: center;
+}
+ a {
+   text-decoration: none;
+}
